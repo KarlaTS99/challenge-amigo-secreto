@@ -7,9 +7,9 @@
 <li><b>Repetir:</b> El jugador puede repetir el proceso tantas veces como desee.</li>
 
 <h2>Requisitos:</h2>
-<li>Navegador(Google Chrome, Microsoft Edge, Opera, Mozilla, etc.).</li>
+<li>Navegador actualizado(Google Chrome, Microsoft Edge, Opera, Mozilla, etc.).</li>
 <li>Acceso a internet.</li>
-<li>Editor de texto (en caso de querer editar el código) </li>
+<li>Editor de texto (en caso de querer modificar el código) </li>
 
 <h2>Instalación:</h2>
 <dl>
