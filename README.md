@@ -12,6 +12,15 @@
 <li>Editor de texto (en caso de querer editar el código) </li>
 
 <h2>Instalación:</h2>
+<dl>
+  <dt>Clonar el Repositorio</dt>
+  <dd>Usar el comando: </dd>
+  <dt>Pulular</dt>
+  <dd>Dicho de las personas, animales o cosas: Abundar y bullir en un lugar.</dd>
+  <dt>Concupiscencia</dt>
+  <dd>En la moral católica, deseo de bienes terrenos y, en especial, apetito desordenado de placeres deshonestos.</dd>
+</dl>
+
 <ol start="1"> 
 <li>Clonar el repositorio</li> 
   usar el comando 
