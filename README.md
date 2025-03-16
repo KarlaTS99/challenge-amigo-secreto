@@ -1,6 +1,8 @@
 <h1>Proyecto Amigo Secreto</h1>
 <p>El proyecto consiste en una aplicación interactiva que permite al usuario ingresar una lista de amigos, y la aplicacion realiza un sorteo de forma aleatoria. El objetivo del proyecto es fortalecer las habilidades de lógica de programación adquiridos.</p>
 
+![image](https://github.com/user-attachments/assets/16563b9a-c583-4a8c-9809-f1c66ddad026)
+
 ## **Mecánica del Juego**
 <li><b>Ingreso de nombres:</b> El usuario debe escribir una lista de nombres en un input.</li>
 <li><b>Visualización de nombres:</b> Se mostrara en una lista los nombres ingresados por el usuario</li>
