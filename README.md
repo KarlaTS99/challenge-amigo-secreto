@@ -15,7 +15,7 @@
 
  Para instalar el juego de Amigo Secreto, siga estos pasos: 
 
-1. Clone el repositorio: **`git clone https://github.com/username/project-title.git`** 
+1. Clone el repositorio: **`https://github.com/KarlaTS99/challenge-amigo-secreto.git`** 
 2. Vaya al directorio del proyecto: **`cd project-title`** 
 3. Instale las dependencias: **`npm install`** 
 4. Compilar el proyecto: **`npm run build`** 
