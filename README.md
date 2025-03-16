@@ -12,6 +12,7 @@
 <li>Editor de texto (en caso de querer editar el código) </li>
 
 <h2>Instalación:</h2>
-<ol>1. Clonar el repositorio</ol> 
-usar el comando 
-
+<ol start="1"> 
+<li>Clonar el repositorio</li> 
+  usar el comando 
+</ol> 
