@@ -14,7 +14,7 @@
 <h2>Instalación:</h2>
 <dl>
   <dt>Clonar el Repositorio</dt>
-  <dd>Usar el comando: </dd>
+  <dd>Usar el comando: ```git clone``</dd>
   ```npm install react```
   ```git clone```
   <dt>Pulular</dt>
