@@ -11,6 +11,14 @@
 <li>Acceso a internet.</li>
 <li>Editor de texto (en caso de querer modificar el código) </li>
 
+## **Herramientas y Tecnologías**
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+<img src="https://github.com/user-attachments/assets/5d2a190b-4be3-4de2-9b3c-6e9ff0d0b7e6" alt="html" width="45" height="45"/>
+<img src="https://github.com/user-attachments/assets/d4afbbe1-71cb-41cc-9b00-2a4459520820" alt="css" width="48" height="48"/>
+ <img src="https://github.com/user-attachments/assets/486704c3-9c33-480c-a695-ded47979ac94" alt="js" width="48" height="48"/>
+</p>
+
 ## **Instalación**
 
  Para instalar el juego de Amigo Secreto, siga estos pasos: 
