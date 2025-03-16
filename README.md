@@ -15,6 +15,7 @@
 <dl>
   <dt>Clonar el Repositorio</dt>
   <dd>Usar el comando: </dd>
+  ```git clone```
   <dt>Pulular</dt>
   <dd>Dicho de las personas, animales o cosas: Abundar y bullir en un lugar.</dd>
   <dt>Concupiscencia</dt>
