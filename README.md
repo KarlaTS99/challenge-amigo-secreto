@@ -3,8 +3,8 @@
 
 <h2>Mecánica del juego:</h2>
 <li><b>Ingreso de nombres:</b> El usuario debe escribir una lista de nombres en un input.</li>
-<li>Selección aleatoria: Una vez que el usuario haya ingresado todos los nombres y presionado el botón "Sorteo Amigo", la aplicación elije un nombre de manera aleatoria.</li>
-<li>Repetir: El jugador puede repetir el proceso tantas veces como desee.</li>
+<li><b>Selección aleatoria:</b> Una vez que el usuario haya ingresado todos los nombres y presionado el botón "Sorteo Amigo", la aplicación elije un nombre de manera aleatoria.</li>
+<li><b>Repetir:</b> El jugador puede repetir el proceso tantas veces como desee.</li>
 
 <h2>Requisitos:</h2>
 <li>Navegador(Google Chrome, Microsoft Edge, Opera, Mozilla, etc.).</li>
